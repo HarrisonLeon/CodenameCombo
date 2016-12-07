@@ -42,7 +42,7 @@ Control layout according to Xbox 360 Controller. However, most "standard control
 - [Ultimate Icon](ttps://thenounproject.com/term/explosion/559342/) by Zlatko Najdenovski
 
 **Fonts**
-- [WideAwake](http://www.pizzadude.dk/) by PizzaDude
+- WideAwake by [PizzaDude](http://www.pizzadude.dk/)
 - 3Dventure by Aaron D. Chand
 - GreenFlame by Extram Studios
 
