@@ -7,6 +7,8 @@ with devastating combos and special moves! Build up your ultimate bar to unleash
 crushing finisher! Keep up the combos without getting hurt to grow your score mulitplier
 and get ridiculously high scores!
 
+*See YouTube trailer [**here**](https://youtu.be/IdyVIlQVsmw)*
+
 ## Controls
 
 This game requires a controler to play!
