@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 509f7a99163bc8143841e22f0a89f2f5
+timeCreated: 1478472627
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HorizontalRing
+    100004: polySurface1
+    100006: polySurface1 1
+    100008: polySurface2
+    100010: polySurface2 1
+    100012: polySurface3
+    100014: polySurface3 1
+    100016: polySurface4
+    100018: polySurface4 1
+    100020: pSphere1
+    100022: transform1
+    100024: transform1 1
+    100026: transform1 2
+    100028: VerticalRing1
+    100030: VerticalRing2
+    400000: //RootNode
+    400002: HorizontalRing
+    400004: polySurface1
+    400006: polySurface1 1
+    400008: polySurface2
+    400010: polySurface2 1
+    400012: polySurface3
+    400014: polySurface3 1
+    400016: polySurface4
+    400018: polySurface4 1
+    400020: pSphere1
+    400022: transform1
+    400024: transform1 1
+    400026: transform1 2
+    400028: VerticalRing1
+    400030: VerticalRing2
+    2300000: polySurface1
+    2300002: polySurface1 1
+    2300004: polySurface2
+    2300006: polySurface2 1
+    2300008: polySurface3
+    2300010: polySurface3 1
+    2300012: polySurface4
+    2300014: polySurface4 1
+    2300016: pSphere1
+    3300000: polySurface1
+    3300002: polySurface1 1
+    3300004: polySurface2
+    3300006: polySurface2 1
+    3300008: polySurface3
+    3300010: polySurface3 1
+    3300012: polySurface4
+    3300014: polySurface4 1
+    3300016: pSphere1
+    4300000: pSphere1
+    4300002: polySurface1
+    4300004: polySurface2
+    4300006: polySurface3
+    4300008: polySurface4
+    4300010: polySurface2
+    4300012: polySurface4
+    4300014: polySurface1
+    4300016: polySurface3
+    7400000: attack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: HorizontalRing
+        weight: 1
+      - path: HorizontalRing/polySurface1
+        weight: 1
+      - path: HorizontalRing/polySurface2
+        weight: 1
+      - path: HorizontalRing/polySurface3
+        weight: 1
+      - path: HorizontalRing/polySurface4
+        weight: 1
+      - path: HorizontalRing/transform1
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: VerticalRing1
+        weight: 1
+      - path: VerticalRing1/polySurface2 1
+        weight: 1
+      - path: VerticalRing1/polySurface4 1
+        weight: 1
+      - path: VerticalRing1/transform1 1
+        weight: 1
+      - path: VerticalRing2
+        weight: 1
+      - path: VerticalRing2/polySurface1 1
+        weight: 1
+      - path: VerticalRing2/polySurface3 1
+        weight: 1
+      - path: VerticalRing2/transform1 2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 881b0bcce3bb28c46be08d5270ae5193,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
