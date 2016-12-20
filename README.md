@@ -2,10 +2,7 @@
 
 ## About
 
-An arcade-style beat-em'-up where the player falls through the sky, defeating enemies
-with devastating combos and special moves! Build up your ultimate bar to unleash a 
-crushing finisher! Keep up the combos without getting hurt to grow your score mulitplier
-and get ridiculously high scores!
+An arcade-style beat-em'-up where the player falls through the sky, defeating enemies with devastating combos and special moves! Build up your ultimate bar to unleash a crushing finisher! Keep up the combos without getting hurt to grow your score multiplier and get ridiculously high scores!
 
 *See YouTube trailer [**here**](https://youtu.be/IdyVIlQVsmw)*
 
